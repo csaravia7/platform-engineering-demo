@@ -149,7 +149,7 @@ spec:
         url: https://literate-space-chainsaw-65qjxg9vwxjc45p9-30100.app.github.dev/applications/argocd/${{ parameters.projectName }}-${{ parameters.teamIdentifier }}-${{ parameters.releaseStage }}
       - title: View in Dynatrace
         icon: catalog
-        url: https://jao16384.sprint.apps.dynatracelabs.com
+        url: https://yaj06303.sprint.apps.dynatracelabs.com
 ---
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
