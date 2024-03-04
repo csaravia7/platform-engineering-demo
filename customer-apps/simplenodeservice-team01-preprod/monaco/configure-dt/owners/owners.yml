@@ -8,7 +8,7 @@ configs:
     name: team01
     template: appteam.json
     parameters:
-      descr: Team 01
+      descr: Team 01 - csaravia
       team_id: team01
       development: true
       security: false
